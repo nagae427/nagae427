@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manaya Nagae
+# 👋 I'm Manaya Nagae
 
 社内SE 2年目のエンジニアです。Web系の受託・自社開発を中心に、フロントからバックエンドまで雑食でやってます。最近は React / Next.js を触るのが楽しいです。
 
